@@ -82,7 +82,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container">
-            <a class="navbar-brand" href="/Project1/Product/">MlemMlem</a>
+            <a class="navbar-brand" href="/Project1/Product/">KhoaBunn</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -120,7 +120,7 @@
 
     <div class="container my-5">
         <!-- Nội dung chính sẽ hiển thị ở đây -->
-        <h2>Chào mừng bạn đến với Khoa Bunn!</h2>
+        <h2>Chào mừng bạn đến với ĐÓM !!! </h2>
         <p>Quản lý sản phẩm và đơn hàng dễ dàng, nhanh chóng.</p>
     </div>
 
